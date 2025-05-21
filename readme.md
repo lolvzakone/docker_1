@@ -25,3 +25,6 @@ Ctrl+C отправляет сигнал SIGINT процессу NGINX, кото
 В данном случае проблема заключается в том что хостовая система где запущен контейнер мапит порт 8080 на порт 80, а в контейнере настроен порт 81.
 
 ![image](https://github.com/user-attachments/assets/875502fe-42aa-49a5-8bfb-5d4071c71f27)
+
+## Задача 4
+![image](https://github.com/user-attachments/assets/038f8d43-ef5d-4b9a-9861-b383e17f3733)
